@@ -1,10 +1,5 @@
 
 
- A FullStack | Backend Enthusiast**  
- Specializing in **Native Mobile | Cross Platform development**
-
----
-
 ## 🔧📱🌐 My Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
