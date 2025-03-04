@@ -1,7 +1,7 @@
-## Hi there, I'm Romario! 👋
 
-🚀 **A FullStack | Backend Enthusiast**  
-🎯 Specializing in **Native Mobile | Cross Platform development**
+
+ A FullStack | Backend Enthusiast**  
+ Specializing in **Native Mobile | Cross Platform development**
 
 ---
 
