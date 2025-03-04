@@ -1,6 +1,6 @@
 ## Hi there, I'm Romario! 👋
 
-🚀 **Full-Stack Developer | Digital Marketer | Freelancer**  
+🚀 **Full-Stack Developer**  
 🎯 Specializing in **Flutter, Laravel, React, Core PHP, Tailwind CSS, and more**
 
 ---
@@ -32,7 +32,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Romario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=romarioburke&show_icons=true&theme=radical)
+![Romario's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Astrobotical&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romarioburke&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
